@@ -4248,6 +4248,7 @@ Add something here
 - [Hem](https://github.com/bhavsarhem)
 - [Ademola Arigbabuwo](https://github.com/AdemolaAri)
 - [Ashis-1601](https://github.com/Ashis16github)
+- [ElChicoDelWallpaper](https://github.com/ElChicoDelWallpaper)
 - [Xyeliang Chain](https://github.com/qxliang2014)
 - [Mohd Aiman Saleem](https://github.com/mohdaimansaleem)
 - [Irina Kats](https://github.com/Divensky)
@@ -4493,4 +4494,5 @@ first contributions - hanyang univ.
 - [poqpwppy](https://github.com/poqpwppy)
 - [taewonh](https://github.com/taewonh)
 - [Abhinav](https://github.com/abhi9decodes)
+
 
